@@ -1,6 +1,6 @@
 ---
 title: Practical Machine Learning Project Report
-author: "by Hongzheng Wang"
+author: "by Abhishek Piramanayagam"
 output:
   html_document:
     fig_height: 9
